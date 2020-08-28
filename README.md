@@ -1,2 +1,3 @@
-# POO
-Repositório das aulas de Programação Orientada a Objetos
+# Programação Orientada a Objetos
+Repositório das aulas de POO
+Curso TADS
