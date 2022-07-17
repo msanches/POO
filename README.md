@@ -5,4 +5,4 @@ Repositório das aulas de POO
 ![](http://dwebkit.esy.es/repositorio/img/Java/duke14_Pequeno.jpg)
  
 ### Conteúdos de aula:
-* **[Aula 01:](https://github.com/msanches/LDA/tree/main/Aula%2001)** Apresentação e conceitos iniciais
+* **[Aula 01:](https://github.com/msanches/POO/tree/master/Aula%2001/ExemploAula01)** Apresentação e conceitos iniciais
