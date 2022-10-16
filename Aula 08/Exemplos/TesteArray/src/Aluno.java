@@ -54,11 +54,9 @@ public class Aluno extends Pessoa{
         System.out.println("Nome: " + getNome() + "\nRGM: " + rgm + "\nResultado: " + resultado());
     }
     
-    
     //Método para cálculo da média
     public double media() {
         double media = nota1 + nota2;
-
         return media;
     }
 
