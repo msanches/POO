@@ -58,7 +58,6 @@ public class Aluno extends Pessoa{
     //Método para cálculo da média
     public double media() {
         double media = nota1 + nota2;
-
         return media;
     }
 
